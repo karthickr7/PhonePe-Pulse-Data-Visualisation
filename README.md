@@ -4,7 +4,7 @@ The Phonepe pulse Github repository contains a large amount of data related to
 various metrics and statistics. The goal is to extract this data and process it to obtain
 insights and information that can be visualized in a user-friendly manner.
 # Approach:
-  1. Data extraction: Clone the Github using scripting to fetch the data from the
+  1. <u>Data extraction</u>: Clone the Github using scripting to fetch the data from the
 Phonepe pulse Github repository and store it in a suitable format such as CSV
 or JSON.
   2. Data transformation: Use a scripting language such as Python, along with
