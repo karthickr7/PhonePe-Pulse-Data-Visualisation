@@ -14,3 +14,14 @@ into a format suitable for analysis and visualization.
   3. Database insertion: Use the "mysql-connector-python" library in Python to
 connect to a MySQL database and insert the transformed data using SQL
 commands.
+  4. Dashboard creation: Use the Streamlit and Plotly libraries in Python to create
+an interactive and visually appealing dashboard. Plotly's built-in geo map
+functions can be used to display the data on a map and Streamlit can be used
+to create a user-friendly interface with multiple dropdown options for users to
+select different facts and figures to display.
+  5. Data retrieval: Use the "mysql-connector-python" library to connect to the
+MySQL database and fetch the data into a Pandas dataframe. Use the data in
+the dataframe to update the dashboard dynamically.
+  6. Deployment: Ensure the solution is secure, efficient, and user-friendly. Test
+the solution thoroughly and deploy the dashboard publicly, making it
+accessible to users.
