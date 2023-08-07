@@ -29,7 +29,7 @@ accessible to users.
   1. Data extraction and processing: Learning how to use Clone Github to
 extract data from a repository and pre-process the data using Python libraries
 such as Pandas.
-  2. Database management: Learning how to use a relational database such
+  2. Database management: Use a relational database such
 as MySQL to store data and retrieve it efficiently for analysis and visualization.
   3. Visualization and dashboard creation: To use libraries
 such as Streamlit and Plotly to create interactive and visually appealing
